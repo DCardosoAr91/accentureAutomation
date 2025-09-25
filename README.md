@@ -21,7 +21,7 @@ Cucumber
 
 Rest-Assured
 
-Estrutura orientada a testes de API com integração ao Cucumber e execução via Maven no Intellij IDEA.
+Estrutura orientada a testes de API com integração ao Cucumber e execução via Intellij IDEA.
 
 Se houver necessidade de ajustes, melhorias ou dúvidas sobre o projeto, fico à disposição para esclarecimentos.
 
@@ -30,4 +30,5 @@ Agradeço pela oportunidade e atenção.
 Atenciosamente,
 
 Denis Cardoso
-(11)96440-6973  https://www.linkedin.com/in/dcardoso91
+(11)96440-6973  
+https://www.linkedin.com/in/dcardoso91
